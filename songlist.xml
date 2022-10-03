@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet href="style.css"?>
+    
+
+<songs
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="songlist.xsd">
+    <song>
+        <artist>Michael Rault</artist>
+        <title>Exactly What I needed</title>
+        <genre>Rock</genre>
+        <year>2022</year>
+    </song>
+
+    <song>
+        <artist>Cut Worms</artist>
+        <title>Veteran's Day</title>
+        <genre>Alternative</genre>
+        <year>2020</year>
+    </song>
+
+    <song>
+        <artist>The Lemon Twigs</artist>
+        <title>These Words</title>
+        <genre>Alternative</genre>
+        <year>2016</year>
+    </song>
+
+    <song>
+        <artist>The Beach Boys</artist>
+        <title>Sail On, Sailor</title>
+        <genre>Rock</genre>
+        <year>1973</year>
+    </song>
+
+    <song>
+        <artist>Vulfpeck</artist>
+        <title>Mr. Finish Line</title>
+        <genre>Funk</genre>
+        <year>2017</year>
+    </song>
+
+    <song>
+        <artist>Drugdealer</artist>
+        <title>Madison</title>
+        <genre>Alternative</genre>
+        <year>2022</year>
+    </song>
+
+    <song>
+        <artist>Fleetwood Mac</artist>
+        <title>Prove Your Love</title>
+        <genre>Pop</genre>
+        <year>1974</year>
+    </song>
+
+    <song>
+        <artist>Dr. Dog</artist>
+        <title>Abandoned Mansion</title>
+        <genre>Alternative</genre>
+        <year>2017</year>
+    </song>
+
+    <song>
+        <artist>Electric Light Orchestra</artist>
+        <title>Don't Bring Me Down</title>
+        <genre>Rock</genre>
+        <year>1979</year>
+    </song>
+
+    <song>
+        <artist>Stevie Wonder</artist>
+        <title>Isn't She Lovely</title>
+        <genre>RnB/Soul</genre>
+        <year>1976</year>
+    </song>
+
+    <song>
+        <artist>Queen</artist>
+        <title>All Dead, All Dead</title>
+        <genre>Rock</genre>
+        <year>1977</year>
+    </song>
+
+    <song>
+        <artist>The Beatles</artist>
+        <title>For No One</title>
+        <genre>Rock</genre>
+        <year>1967</year>
+    </song>
+</songs>
