@@ -1,0 +1,31 @@
+songs {
+    display: block;
+    border: solid 10px;
+    border-color: black;
+    background-color: #ffccff;
+    text-align: left;
+}
+
+song, artist {
+    font-weight: bold;
+    font-family: impact;
+    color: orange;
+    font-size: 30px;
+    padding: 2px;
+}
+
+title {
+    font-weight: bold;
+    font-family: impact;
+    color: #3399FF;
+    font-size: 20px;
+}
+
+genre, year {
+    display: block;
+    font-weight: thin;
+    font-family: helvetica;
+    color: black;
+    font-size: 18px;
+    padding: 5px;
+}
